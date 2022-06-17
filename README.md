@@ -6,6 +6,6 @@ It is necessary to have Rhinoceros 3D software and the plug-in Grasshopper (alre
 ### How to use it
 For each pattern, the 2 files has to be opened.
 It is important to follow the order:
-1- Once Rhino is openned just import the .3dm file
-2- Then go to *tools* and select *Grasshopper*. Another window will be opend and open here the .gh file.
-3- The geometry will appear in the Rhino window.
+* Once Rhino is openned just import the .3dm file
+* Then go to *tools* and select *Grasshopper*. Another window will be opend and open here the .gh file.
+* The geometry will appear in the Rhino window.
